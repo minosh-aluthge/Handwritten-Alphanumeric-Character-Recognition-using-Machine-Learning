@@ -39,12 +39,13 @@ pip install opencv-python numpy matplotlib scikit-image pandas kagglehub
 ```
 
 ## Authors
-- Member 01: Data loading and inspection
-- Member 02: Grayscale conversion
-- Member 03: Data normalization
-- Member 04: Label encoding
-- Member 05: Brightness augmentation
-- Member 06: HoG feature extraction
+- IT24102319 Wickramasurya J.N: Data loading and inspection
+- IT 241022268 Aluthge M.N: Grayscale conversion
+- IT24102253 Gunasekara K.Y.A: Data normalization
+- IT24102296 Diwanjani B S S: Label encoding
+- IT24102318 Wickrama Edirisooriya A.A.G: Brightness augmentation
+- IT24102263 Perera M.L.T: HoG feature extraction
 
 ## License
+
 This project is licensed under the MIT License.
