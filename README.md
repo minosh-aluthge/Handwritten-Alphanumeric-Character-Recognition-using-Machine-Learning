@@ -39,7 +39,7 @@ pip install opencv-python numpy matplotlib scikit-image pandas kagglehub
 ```
 
 ## Authors
-- IT24102319 Wickramasurya J.N: Data loading and inspection
+- IT24102319 Wickramasurya J.N: Data loading , inspection and resize
 - IT 241022268 Aluthge M.N: Grayscale conversion
 - IT24102253 Gunasekara K.Y.A: Data normalization
 - IT24102296 Diwanjani B S S: Label encoding
@@ -49,3 +49,4 @@ pip install opencv-python numpy matplotlib scikit-image pandas kagglehub
 ## License
 
 This project is licensed under the MIT License.
+
