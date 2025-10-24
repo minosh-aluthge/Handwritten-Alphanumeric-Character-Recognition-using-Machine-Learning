@@ -35,13 +35,12 @@ AIML project/
 ├── MODELS.md                          # Detailed model documentation
 ├── SETUP.md                           # Installation and setup guide
 ├── RESULTS.md                         # Experimental results and comparisons
-│
+│    
 ├── AlphaNum/                          # Dataset directory (48x48 images)
 │   ├── train/                         # Training images (0-9, A-Z, a-z, special chars)
 │   ├── validation/                    # Validation images
 │   └── test/                          # Test images
-│
-├── AlphaNum2/, AlphaNum3/             # Alternative dataset versions
+|    dataset https://www.kaggle.com/datasets/lopalp/alphanum
 │
 ├── LeNet-5/                           # LeNet-5 CNN Model
 │   ├── LeNet-5.ipynb                 # Training notebook
@@ -250,7 +249,7 @@ If you use this project in your research or work, please cite:
 
 - **Issues**: Report bugs and feature requests on GitHub Issues
 - **Discussions**: Join discussions for questions and ideas
-- **Email**: your.email@example.com
+- **Email**: minoshaluthge@gmail.com
 
 ## 🙏 Acknowledgments
 
